@@ -8,7 +8,7 @@ stages {
    }
   stage("test"){
      steps {
-       echo 'testing the app'
+       echo 'testing the app today'
      }
    }
   stage("deploy"){
